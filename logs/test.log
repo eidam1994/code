@@ -1,0 +1,10 @@
+16:54:51.035 [main] INFO  com.framework.FrameworkApplication - Starting FrameworkApplication on DESKTOP-6L4E7M4 with PID 12792 (E:\framework\target\classes started by eidam in E:\framework)
+16:54:51.079 [main] INFO  com.framework.FrameworkApplication - No active profile set, falling back to default profiles: default
+16:54:52.666 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8030"]
+16:54:52.667 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:54:52.667 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+16:54:52.779 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:54:52.938 [main] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource
+16:54:54.593 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+16:54:55.740 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8030"]
+16:54:55.778 [main] INFO  com.framework.FrameworkApplication - Started FrameworkApplication in 5.681 seconds (JVM running for 7.759)
